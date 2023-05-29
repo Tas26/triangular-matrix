@@ -1,0 +1,6 @@
+Matrix merete = 2
+A matrix: 
+0 1 
+2 3 
+
+NEM bonthato fel LU dekompozicioval. :(

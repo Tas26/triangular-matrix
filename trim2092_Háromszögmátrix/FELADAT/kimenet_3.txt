@@ -1,0 +1,5 @@
+Matrix merete = 1
+A matrix: 
+4 
+
+Nem Letezik dekompozicio a kiebb mint 2x2 matrixokra.
